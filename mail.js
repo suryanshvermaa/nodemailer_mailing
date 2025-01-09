@@ -1,14 +1,15 @@
 import nodemailer from 'nodemailer'
 import 'dotenv/config'
 import {htmlMailContent} from "./sponserMail.js"
+
+const transporter=await nodemailer.createTransport({
+    service:'gmail',
+    auth:{
+        user:process.env.MY_EMAIL,
+        pass:process.env.MY_PASSWORD
+    }
+});
 export const sendMail=async(email,company)=>{
-    const transporter=await nodemailer.createTransport({
-        service:'gmail',
-        auth:{
-            user:process.env.MY_EMAIL,
-            pass:process.env.MY_PASSWORD
-        }
-    });
     const info=await transporter.sendMail({
         from:process.env.MY_EMAIL,
         to:email,

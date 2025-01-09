@@ -1,103 +1,5 @@
 [
-    {   "id": 1,
-        "company": "CapitalOne",
-        "email": "alli.sherman@capitalone.com"
-    },
-    {
-        "id": 2,
-        "company": "Udemy",
-        "email": "press@udemy.com"
-    },
-    {   
-        "id": 3,
-        "company": "Unstop",
-        "email": "partner@unstop.com"
-    },
-    {
-        "id": 4,
-        "company": "GoDaddy",
-        "email": "brandmarketing@godaddy.com"
-    },
-    {
-        "id": 5,
-        "company": "Codechef",
-        "email": "techtalks@codechef.com"
-    },
-    {
-        "id": 6,
-        "company": "Give My Certificate",
-        "email": "support@givemycertificate.com"
-    },
-    {
-        "id": 7,
-        "company": "Monzo",
-        "email": "help@monzo.com"
-    },
-    {
-        "id": 8,
-        "company": "Estimote",
-        "email": "contact@estimote.com"
-    },
-    {
-        "id": 9,
-        "company": "Echo3D",
-        "email": "sponsorships@echo3d.com"
-    },
-    {
-        "id": 10,
-        "company": "Matrix",
-        "email": "info@matrix.co.il"
-    },
-    {
-        "id": 11,
-        "company": "Narayana Group",
-        "email": "murlee.buda@narayanagroup.com"
-    },
-    {
-        "id": 12,
-        "company": "Masai School",
-        "email": "sakshi.malhotra@masaischool.com"
-    },
-    {
-        "id": 13,
-        "company": "Cotopaxi",
-        "email": "ukllamas@cotopaxi.com"
-    },
-    {
-        "id": 14,
-        "company": "Codethink",
-        "email": "codethink@codethink.co.uk"
-    },
-    {
-        "id": 15,
-        "company": "Kinsta",
-        "email": "contact@kinsta.com"
-    },
-    {
-        "id": 16,
-        "company": "Nvida",
-        "email": "info@nvidia.com"
-    },
-    {
-        "id": 17,
-        "company": "Morgan Stanley",
-        "email": "mediainquiries@morganstanley.com"
-    },
-    {
-        "id": 18,
-        "company": "GenSpark",
-        "email": "info@genspark.net"
-    },
-    {
-        "id": 19,
-        "company": "ArtMonster",
-        "email": "art.lizthedeveloper@gmail.com"
-    },
-    {
-        "id": 20,
-        "company": "gail",
-        "email": "info@gail.co.in"
-    },
+    
     {
         "id": 21,
         "company": "Noise",
@@ -110,7 +12,7 @@
     },
     {
         "id": 23,
-        "company": "Hackathons International ",
+        "company": "Hackathons International",
         "email": "support@hackathonsinternational.com"
     },
     {
