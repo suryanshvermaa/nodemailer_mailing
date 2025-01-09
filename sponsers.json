@@ -1,0 +1,446 @@
+[
+    {   "id": 1,
+        "company": "CapitalOne",
+        "email": "alli.sherman@capitalone.com"
+    },
+    {
+        "id": 2,
+        "company": "Udemy",
+        "email": "press@udemy.com"
+    },
+    {   
+        "id": 3,
+        "company": "Unstop",
+        "email": "partner@unstop.com"
+    },
+    {
+        "id": 4,
+        "company": "GoDaddy",
+        "email": "brandmarketing@godaddy.com"
+    },
+    {
+        "id": 5,
+        "company": "Codechef",
+        "email": "techtalks@codechef.com"
+    },
+    {
+        "id": 6,
+        "company": "Give My Certificate",
+        "email": "support@givemycertificate.com"
+    },
+    {
+        "id": 7,
+        "company": "Monzo",
+        "email": "help@monzo.com"
+    },
+    {
+        "id": 8,
+        "company": "Estimote",
+        "email": "contact@estimote.com"
+    },
+    {
+        "id": 9,
+        "company": "Echo3D",
+        "email": "sponsorships@echo3d.com"
+    },
+    {
+        "id": 10,
+        "company": "Matrix",
+        "email": "info@matrix.co.il"
+    },
+    {
+        "id": 11,
+        "company": "Narayana Group",
+        "email": "murlee.buda@narayanagroup.com"
+    },
+    {
+        "id": 12,
+        "company": "Masai School",
+        "email": "sakshi.malhotra@masaischool.com"
+    },
+    {
+        "id": 13,
+        "company": "Cotopaxi",
+        "email": "ukllamas@cotopaxi.com"
+    },
+    {
+        "id": 14,
+        "company": "Codethink",
+        "email": "codethink@codethink.co.uk"
+    },
+    {
+        "id": 15,
+        "company": "Kinsta",
+        "email": "contact@kinsta.com"
+    },
+    {
+        "id": 16,
+        "company": "Nvida",
+        "email": "info@nvidia.com"
+    },
+    {
+        "id": 17,
+        "company": "Morgan Stanley",
+        "email": "mediainquiries@morganstanley.com"
+    },
+    {
+        "id": 18,
+        "company": "GenSpark",
+        "email": "info@genspark.net"
+    },
+    {
+        "id": 19,
+        "company": "ArtMonster",
+        "email": "art.lizthedeveloper@gmail.com"
+    },
+    {
+        "id": 20,
+        "company": "gail",
+        "email": "info@gail.co.in"
+    },
+    {
+        "id": 21,
+        "company": "Noise",
+        "email": "help@nexxbase.com"
+    },
+    {
+        "id": 22,
+        "company": "Celo",
+        "email": "press@celo.org"
+    },
+    {
+        "id": 23,
+        "company": "Hackathons International ",
+        "email": "support@hackathonsinternational.com"
+    },
+    {
+        "id": 24,
+        "company": "Clerky",
+        "email": "hackathons@clerky.com"
+    },
+    {
+        "id": 25,
+        "company": "Coding Blocks",
+        "email": "info@codingblocks.com"
+    },
+    {
+        "id": 26,
+        "company": "Egghead ",
+        "email": "support@egghead.io"
+    },
+    {
+        "id": 27,
+        "company": "UaceIt",
+        "email": "support@uaceit.com"
+    },
+    {
+        "id": 28,
+        "company": "Polkadot",
+        "email": "hello@polkadotagency.com"
+    },
+    {
+        "id": 29,
+        "company": "Alchemy",
+        "email": "Sponsorship@alchemyproject.co"
+    },
+    {
+        "id": 30,
+        "company": "Interview Cake",
+        "email": "yourfriends@interviewcake.com"
+    },
+    {
+        "id": 31,
+        "company": "QuillAudits",
+        "email": "quillaudits@substack.com"
+    },
+    {
+        "id": 32,
+        "company": "GeeksforGeeks",
+        "email": "feedback@geeksforgeeks.org"
+    },
+    {
+        "id": 33,
+        "company": "FileCoin",
+        "email": "contact@filecoin.io"
+    },
+    {
+        "id": 34,
+        "company": "Upgrad",
+        "email": "info@upgrad.com"
+    },
+    {
+        "id": 35,
+        "company": "Zebronics",
+        "email": "enquiry@zebronics.com"
+    },
+    {
+        "id": 36,
+        "company": "mtv",
+        "email": "connectwithus@viacom18.com"
+    },
+    {
+        "id": 37,
+        "company": "EthIndia",
+        "email": "partner@ethglobal.com"
+    },
+    {
+        "id": 38,
+        "company": "Morgan Stanley",
+        "email": "mediainquiries@morganstanley.com"
+    },
+    {
+        "id": 39,
+        "company": "Tezos",
+        "email": "reachout@tezos.com"
+    },
+    {
+        "id": 40,
+        "company": "Newton School ",
+        "email": "contact@newtonschool.co"
+    },
+    {
+        "id": 41,
+        "company": "Axure",
+        "email": "sales@axure.com"
+    },
+    {
+        "id": 42,
+        "company": "Synk",
+        "email": "support@snyk.io"
+    },
+    {
+        "id": 43,
+        "company": "KnowAFest",
+        "email": "info@knowafest.com"
+    },
+    {
+        "id": 44,
+        "company": "Pirimid FinTech",
+        "email": "info@pirimidtech.com"
+    },
+    {
+        "id": 45,
+        "company": "FossUnited",
+        "email": "oundation@fossunited.org"
+    },
+    {
+        "id": 46,
+        "company": "Interview Buddy",
+        "email": "info@myinterviewbuddy.com"
+    },
+    {
+        "id": 47,
+        "company": "PrepBytes",
+        "email": "contact@prepbytes.com"
+    },
+    {
+        "id": 48,
+        "company": "Tinker Hub",
+        "email": "hi@tinkerhub.org"
+    },
+    {
+        "id": 49,
+        "company": "collegedunia",
+        "email": "accounts@collegedunia.com"
+    },
+    {
+        "id": 50,
+        "company": "ClusterDev",
+        "email": "careers@clusterdev.net"
+    },
+    {
+        "id": 51,
+        "company": "Digital Ocean",
+        "email": "sponsorship@digitalocean.com"
+    },
+    {
+        "id": 52,
+        "company": "BalsamIQ",
+        "email": "support@balsamiq.com"
+    },
+    {
+        "id": 53,
+        "company": "Ernst & yOUng",
+        "email": "myeysupport@ey.com"
+    },
+    {
+        "id": 54,
+        "company": "JP Morgan",
+        "email": "customerservice.india@jpmorgan.com"
+    },
+    {
+        "id": 55,
+        "company": "Wipro",
+        "email": "info@wipro.com"
+    },
+    {
+        "id": 56,
+        "company": "Infosys ",
+        "email": "IBPM_Launchpad@Infosys.com"
+    },
+    {
+        "id": 57,
+        "company": "Horuson",
+        "email": "horusonindia@gmail.com"
+    },
+    {
+        "id": 58,
+        "company": "Concordium",
+        "email": "contact@concordium.com"
+    },
+    {
+        "id": 59,
+        "company": ".xyz",
+        "email": "hello@gen.xyz"
+    },
+    {
+        "id": 60,
+        "company": "Upskill",
+        "email": "info@upskillcourses.com"
+    },
+    {
+        "id": 61,
+        "company": "Teachnook",
+        "email": "support@teachnook.com"
+    },
+    {
+        "id": 62,
+        "company": "Velo",
+        "email": "info.gb@velo.com"
+    },
+    {
+        "id": 63,
+        "company": "Deso",
+        "email": "support@deso.cz"
+    },
+    {
+        "id": 64,
+        "company": "Accuwebtech",
+        "email": "vanraj.accuwebtech@gmail.com"
+    },
+    {
+        "id": 65,
+        "company": "Scaler",
+        "email": "hello@scaler.com"
+    },
+    {
+        "id": 66,
+        "company": "Codecademy",
+        "email": "support@codecademy.com"
+    },
+    {
+        "id": 67,
+        "company": "Duolingo",
+        "email": "press@duolingo.com"
+    },
+    {
+        "id": 68,
+        "company": "Spheron",
+        "email": "support@spheron.com"
+    },
+    {
+        "id": 69,
+        "company": "LumosLabs",
+        "email": "corporate@lumoslabs.co"
+    },
+    {
+        "id": 70,
+        "company": "Portis'",
+        "email": "office@portis.io"
+    },
+    {
+        "id": 71,
+        "company": "W3Schools",
+        "email": "support@w3schools.com"
+    },
+    {
+        "id": 72,
+        "company": "GO skills",
+        "email": "media@goskills.com"
+    },
+    {
+        "id": 73,
+        "company": "ClassCentral",
+        "email": "contact@classcentral.com"
+    },
+    {
+        "id": 74,
+        "company": "SmartKnower",
+        "email": "support@smartknower.com"
+    },
+    {
+        "id": 75,
+        "company": "ProDot",
+        "email": "info@prodotgroup.com"
+    },
+    {
+        "id": 76,
+        "company": "boat",
+        "email": "info@imaginemarketingindia.com"
+    },
+    {
+        "id": 77,
+        "company": "mivi",
+        "email": "support@mivi.in"
+    },
+    {
+        "id": 78,
+        "company": "ThreeWay",
+        "email": "clientsolutions@threeway.com"
+    },
+    {
+        "id": 79,
+        "company": "Avalanche",
+        "email": "Hello@Avalanche-Studios.com"
+    },
+    {
+        "id": 80,
+        "company": "Mina",
+        "email": "orders@minajaipur.com"
+    },
+    {
+        "id": 81,
+        "company": "echoAR",
+        "email": "info@echoAR.xyz"
+    },
+    {
+        "id": 82,
+        "company": "Matic Network (BVI) Ltd.        ",
+        "email": "connect@matic.network"
+    },
+    {
+        "id": 83,
+        "company": "verbwire",
+        "email": "support@verbwire.com"
+    },
+    {
+        "id": 84,
+        "company": "BiharApps",
+        "email": "hr@biharapps.com"
+    },
+    {
+        "id": 85,
+        "company": "RailRestro",
+        "email": "care@railrestro.com"
+    },
+    {
+        "id": 86,
+        "company": "RailMitra",
+        "email": "care@railmitra.com"
+    },
+    {
+        "id": 87,
+        "company": "Bihar state electronics development corporation limited",
+        "email": " bsedc@beltron.in"
+    },
+    {
+        "id": 88,
+        "company": "Skoda",
+        "email": "@skoda-auto.co.in"
+    },
+    {
+        "id": 89,
+        "company": "Taskade",
+        "email": "support@taskade.com"
+    }
+]

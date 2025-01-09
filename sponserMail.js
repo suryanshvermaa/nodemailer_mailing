@@ -1,0 +1,80 @@
+export const htmlMailContent=(companyName)=>{
+  return `
+  <p style="color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; font-size: small; "><strong>Dear ${companyName},</strong></p>
+
+<p style="color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; font-size: small; ">I hope this message finds you well. We, the <strong>Tesla Club of NIT Patna (NITP)</strong>, are thrilled to announce an exciting initiative—our college’s <strong>First-Ever Hardware Hackathon</strong>. This event aims to foster innovation, creativity, and technical excellence among the brightest minds at NITP. We are reaching out to your esteemed company to propose a collaboration for this milestone event, which promises mutual benefits and impactful outcomes.</p>
+
+<p style="color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; font-size: small; ">The Tesla Club NITP is a vibrant student-led community dedicated to advancing knowledge and innovation in technology, engineering, and hardware systems. Our club has a proven track record of organizing high-impact technical workshops, projects, and competitions that inspire students to push the boundaries of engineering.</p>
+
+<h3 style="color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; ">Hardware Hackathon</h3>
+
+<ul style="color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; font-size: small; "><li style="margin-left: 15px;"><strong>Dates : 17-23 Feb</strong></li>
+<li style="margin-left: 15px;"><strong>Location:</strong> National Institute of Technology, Patna</li>
+<li style="margin-left: 15px;"><strong>Duration:</strong> 24 to 36 hours of hands-on development</li>
+<li style="margin-left: 15px;"><strong>Participants:</strong> Over 300 students, including teams of talented individuals from NITP and neighboring institutions</li>
+</ul>
+
+<p style="color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; font-size: small; ">The hackathon will provide a platform for students to ideate, design, and prototype innovative hardware-based solutions to real-world problems. The event will feature brainstorming sessions, mentorship opportunities, and project presentations, culminating in awards for outstanding projects.</p>
+
+<h3 style="color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; ">Why Partner With Us?</h3>
+
+<p style="color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; font-size: small; ">Collaboration with Tesla Club NITP on this event offers your company several benefits:</p>
+
+<ol style="color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; font-size: small; "><li style="margin-left: 15px;"><p><strong>Brand Promotion:</strong> Gain visibility among hundreds of top engineering students at NITP, many of whom are potential future leaders in the tech and hardware industry.</p>
+
+</li>
+<li style="margin-left: 15px;"><p><strong>Talent Acquisition:</strong> Engage directly with some of the brightest young minds in the country and identify potential recruits with exceptional technical and problem-solving skills.</p>
+
+</li>
+<li style="margin-left: 15px;"><p><strong>Product Promotion:</strong> Showcase your company’s latest technologies, tools, and products during the hackathon, fostering greater brand recognition and adoption.</p>
+
+</li>
+<li style="margin-left: 15px;"><p><strong>Networking Opportunities:</strong> Build connections with academia and the student community, strengthening your company’s position as a leader in the hardware innovation ecosystem.</p>
+
+</li>
+</ol><h3 style="color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; ">How You Can Collaborate</h3>
+
+<p style="color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; font-size: small; ">We envision a partnership where your company plays a key role in ensuring the success of this hackathon. Here are some ways you can get involved:</p>
+
+<ol style="color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; font-size: small; "><li style="margin-left: 15px;"><strong>Sponsorship:</strong> Support the event financially or provide resources like development kits, tools, or hardware components.</li>
+<li style="margin-left: 15px;"><strong>Workshops and Mentorship:</strong> Conduct pre-hackathon workshops or provide mentors to guide participants during the event.</li>
+<li style="margin-left: 15px;"><strong>Prizes:</strong> Sponsor attractive prizes for winning teams to motivate participants.</li>
+<li style="margin-left: 15px;"><strong>Judging Panel:</strong> Nominate representatives from your company to be part of the judging panel.</li>
+<li style="margin-left: 15px;"><strong>Exhibition Booths:</strong> Set up an exhibition booth to display your products and interact with participants.</li>
+</ol><h3 style="color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; ">Deliverables From Our Side</h3>
+
+<div dir="auto" style="color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; font-size: small; "><div dir="auto"><div dir="auto"><b>Platinum sponsor</b>: (INR 18,000/- )</div><div><ol><li style="margin-left: 15px;"> Showcasing Products and services at Inauguration session</li>
+<li style="margin-left: 15px;"> MoU with TESLA NITP for future collaboration</li>
+<li style="margin-left: 15px;">.Promotion by our social media partners</li>
+<li style="margin-left: 15px;">Organization's Logo placement on Banner</li>
+<li style="margin-left: 15px;">Thorough shout-outs during hackathon.</li>
+</ol></div></div><div dir="auto"><b>Diamond sponsor</b>: (INR 12,000/- )</div><div dir="auto"><ol><li style="margin-left: 15px;">Session by expert</li>
+<li style="margin-left: 15px;">Inauguration and Felicitation promotion</li>
+<li style="margin-left: 15px;">Promotion by our social media partners</li>
+<li style="margin-left: 15px;">Banner across the campus</li>
+<li style="margin-left: 15px;">Thorough shout-outs during hackathon.</li>
+</ol></div></div><div dir="auto" style="color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; font-size: small; "><b>Gold sponsor</b>: (INR 9,000/- )</div><div dir="auto" style="color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; font-size: small; "><ol><li style="margin-left: 15px;"> Organization's Logo placement on Banner</li>
+<li style="margin-left: 15px;"> Promotions on social media by our team</li>
+<li style="margin-left: 15px;">. Thorough shout-outs during hackathon.</li>
+</ol></div><ul style="color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; font-size: small; "></ul>
+
+<h3 style="color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; "><span style="font-size: small; font-weight: normal;"><i>Note : These above mentioned slabs are negotiable.</i></span></h3>
+
+<h3 style="color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; "><span style="font-size: small; font-weight: normal;">We have attached the following documents for your reference:</span></h3>
+
+<ol style="color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; font-size: small; "><li style="margin-left: 15px;">Tesla Club NITP Proposal</li>
+<li style="margin-left: 15px;">Event Brochure</li>
+</ol><p style="color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; font-size: small; ">We would be delighted to discuss this collaboration further and tailor our partnership to align with your company’s goals. Please feel free to reach out to us at yashgupta2202144@gmail.com to schedule a meeting or call.</p>
+
+<p style="color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; font-size: small; ">Thank you for considering this opportunity to collaborate on a groundbreaking event that promises to make a significant impact on the technical community.</p>
+
+<p style="color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; font-size: small; "><strong>Looking forward to your positive response.</strong></p>
+
+<p style="color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; font-size: small; ">Best regards,<br>
+SURAJ &amp; Yash Gupta<br>
+Joint Secretary<br>
+Tesla Club, National Institute of Technology Patna<br>
+Email: <a href="mailto:surajnitp26@outlook.com" target="_blank" style="color: rgb(17, 85, 204);">surajnitp26@outlook.com</a><wbr>, <a href="mailto:yashgupta2202144@gmail.com" target="_blank" style="color: rgb(17, 85, 204);">yashgupta2202144@gmail.com</a></p>
+
+  `
+}
