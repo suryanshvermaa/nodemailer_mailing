@@ -12,6 +12,8 @@ export const sendMail=async(email,company)=>{
     const info=await transporter.sendMail({
         from:process.env.MY_EMAIL,
         to:email,
+        cc: ['yashgupta2202144@gmail.com'],
+        bcc: ['surajnitp26@outlook.com'],
         subject:"Collaboration Invite for HARDWARE HACKATHON in NIT PATNA",
         html:htmlMailContent(company),
         attachments:[
