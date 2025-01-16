@@ -6,6 +6,7 @@ import inquirer from 'inquirer';
 
 const progressBar = new cliProgress.SingleBar({}, cliProgress.Presets.shades_classic);
 const mail = async(filePath) => {
+    if(filePath=='exit') process.exit();
     console.log('Email fetching from json file...');
     const emailData=await emailsData(filePath);
     const emailCount=emailData.length;
@@ -29,6 +30,7 @@ const mail = async(filePath) => {
 }
 export const sendingMail=async()=>{
     const files=await fileListForMailing('.');
+    files.push('exit');
     const answer = await inquirer.prompt([
         {
           type: 'list',

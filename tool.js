@@ -17,7 +17,8 @@ export const introToolInterface=`
   `
   console.log("\x1b[32m%s\x1b[0m",introToolInterface);
 
-const choices=['fileViwer','mailing'];
+
+  const choices=['fileViwer','mailing','exit'];
 inquirer.prompt([
     {
       type: 'list',
@@ -33,6 +34,12 @@ inquirer.prompt([
     if(answers.selectedOption=='mailing'){
       sendingMail();
     }
-  }).catch((error) => {
+    if(answers.selectedOption=='exit'){
+      process.exit();
+    }
+  }).then(()=>{
+    Main();
+  })
+  .catch((error) => {
     console.error('Error:', error);
   });
