@@ -1,0 +1,202 @@
+[
+    {
+      "Timestamp": "4/4/2025 0:48:48",
+      "email": "suryanshv.ug23.ee@nitp.ac.in",
+      "name": "suryanshverma.dev.official@gmail.com",
+      "roll": 2302086,
+      "Branch": "EE",
+      "mobile": 9580104753
+    },
+    {
+      "Timestamp": "4/4/2025 9:10:37",
+      "email": "shashwata.ug22.ee@nitp.ac.in",
+      "name": "Dummy",
+      "roll": 4436333,
+      "Branch": "MCA",
+      "mobile": 94322632
+    },
+    {
+      "Timestamp": "4/4/2025 10:15:43",
+      "email": "yakshb.ug24.cs@nitp.ac.in",
+      "name": "Yaksh Bariya",
+      "roll": 2406025,
+      "Branch": "CSE",
+      "mobile": 9662435662
+    },
+    {
+      "Timestamp": "4/4/2025 10:17:50",
+      "email": "anishk.ug23.ee@nitp.ac.in",
+      "name": "Anish kumar",
+      "roll": 2302109,
+      "Branch": "EE",
+      "mobile": 9905135481
+    },
+    {
+      "Timestamp": "4/4/2025 10:22:49",
+      "email": "aaravs.ug24.ce@nitp.ac.in",
+      "name": "Aarav Singh",
+      "roll": 2403064,
+      "Branch": "CE",
+      "mobile": 7054628477
+    },
+    {
+      "Timestamp": "4/4/2025 10:25:43",
+      "email": "rohitkr.ug23.ee@nitp.ac.in",
+      "name": "Rohit Kumar",
+      "roll": 2302037,
+      "Branch": "EE",
+      "mobile": 8102042843
+    },
+    {
+      "Timestamp": "4/4/2025 10:35:24",
+      "email": "rishabhg.dd24.cs@nitp.ac.in",
+      "name": "Rishabh Gupta",
+      "roll": 2446042,
+      "Branch": "CSE",
+      "mobile": 7985538841
+    },
+    {
+      "Timestamp": "4/4/2025 10:41:58",
+      "email": "akshaya.ug24.ee@nitp.ac.in",
+      "name": "Akshay Anand",
+      "roll": 2402106,
+      "Branch": "EE",
+      "mobile": 7079312053
+    },
+    {
+      "Timestamp": "4/4/2025 10:55:09",
+      "email": "aryabha.dd24.ee@nitp.ac.in",
+      "name": "Aryabh Agrawal",
+      "roll": 2449009,
+      "Branch": "EE",
+      "mobile": 8154986028
+    },
+    {
+      "Timestamp": "4/4/2025 10:59:20",
+      "email": "sreegirip.dd24.cs@nitp.ac.in",
+      "name": "Sreegiri Gireesh Kumar Pillai",
+      "roll": 2447037,
+      "Branch": "CSE",
+      "mobile": 7736755214
+    },
+    {
+      "Timestamp": "4/4/2025 11:27:11",
+      "email": "nunavathk.ug24.ee@nitp.ac.in",
+      "name": "Nunavath Kumar",
+      "roll": 2402025,
+      "Branch": "EE",
+      "mobile": "93921 96803"
+    },
+    {
+      "Timestamp": "4/4/2025 11:44:49",
+      "email": "rajeevp.ug24.ec@nitp.ac.in",
+      "name": "Rajeev Pandey",
+      "roll": 2404039,
+      "Branch": "ECE",
+      "mobile": 9451601055
+    },
+    {
+      "Timestamp": "4/4/2025 11:45:53",
+      "email": "arushig.ug24.ec@nitp.ac.in",
+      "name": "Arushi Gautam",
+      "roll": 2404030,
+      "Branch": "ECE",
+      "mobile": 9369246712
+    },
+    {
+      "Timestamp": "4/4/2025 12:05:19",
+      "email": "shaika.ug24.ec@nitp.ac.in",
+      "name": "Shaik Ashafaq",
+      "roll": 2404060,
+      "Branch": "ECE",
+      "mobile": 8977501488
+    },
+    {
+      "Timestamp": "4/4/2025 12:29:53",
+      "email": "tarunkd.ug24.cs@nitp.ac.in",
+      "name": "Tarun Kumar",
+      "roll": 2406098,
+      "Branch": "CSE",
+      "mobile": 8743933275
+    },
+    {
+      "Timestamp": "4/4/2025 12:44:05",
+      "email": "shreyashk.ug24.ce@nitp.ac.in",
+      "name": "Shreyash Kumar",
+      "roll": 2403027,
+      "Branch": "CE",
+      "mobile": 7370983020
+    },
+    {
+      "Timestamp": "4/4/2025 15:46:08",
+      "email": "rahulk.ug24.me@nitp.ac.in",
+      "name": "Rahul kumar",
+      "roll": 2401018,
+      "Branch": "ME",
+      "mobile": 9341653862
+    },
+    {
+      "Timestamp": "4/4/2025 17:02:03",
+      "email": "staraman600@gmail.com",
+      "name": "Md Aman",
+      "roll": 2406117,
+      "Branch": "CSE",
+      "mobile": 9523733319
+    },
+    {
+      "Timestamp": "4/4/2025 17:47:17",
+      "email": "mohda.ug24.ec@nitp.ac.in",
+      "name": "Mohd Afzal",
+      "roll": 2404005,
+      "Branch": "ECE",
+      "mobile": 7007913354
+    },
+    {
+      "Timestamp": "4/4/2025 19:40:23",
+      "email": "satdeven.ug24.ee@nitp.ac.in",
+      "name": "Ayush Satdeve",
+      "roll": 2402098,
+      "Branch": "EE",
+      "mobile": 9764992115
+    },
+    {
+      "Timestamp": "4/4/2025 20:12:36",
+      "email": "nitishk.ug24.ec@nitp.ac.in",
+      "name": "Nitish kumar",
+      "roll": 2404047,
+      "Branch": "ECE",
+      "mobile": 9693142784
+    },
+    {
+      "Timestamp": "4/4/2025 21:11:19",
+      "email": "mds.ug24.mae@nitp.ac.in",
+      "name": "Md Parwej Salim",
+      "roll": 2411013,
+      "Branch": "MAE",
+      "mobile": 9608730930
+    },
+    {
+      "Timestamp": "4/4/2025 23:41:01",
+      "email": "sky388030@gmail.com",
+      "name": "Saurav Kumar",
+      "roll": 3001092,
+      "Branch": "CE",
+      "mobile": 7645033547
+    },
+    {
+      "Timestamp": "4/5/2025 3:45:08",
+      "email": "suryanshv.ug23.ee@nitp.ac.in",
+      "name": "Suryansh",
+      "roll": 2302086,
+      "Branch": "EE",
+      "mobile": 9580104753
+    },
+    {
+      "Timestamp": "4/5/2025 11:05:50",
+      "email": "aniketkc.ug24.ec@nitp.ac.in",
+      "name": "Aniket Kumar",
+      "roll": 2404052,
+      "Branch": "ECE",
+      "mobile": 6203478912
+    }
+  ]

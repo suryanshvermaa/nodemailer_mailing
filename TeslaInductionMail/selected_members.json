@@ -1,0 +1,352 @@
+[
+    {
+        "team": "Blockchain",
+        "branch": "EE",
+        "rollNo": 2302054,
+        "name": "Himanshu Yadav",
+        "email": "himanshuy.ug23.ee@nitp.ac.in"
+    },
+    {
+        "team": "Blockchain",
+        "branch": "CSE",
+        "rollNo": 2306045,
+        "name": "Rohitth Chennupalli",
+        "email": "chennupallir.ug23.cs@nitp.ac.in"
+    },
+    {
+        "team": "Blockchain",
+        "branch": "EE",
+        "rollNo": 2402114,
+        "name": "Garv Singh",
+        "email": "garvs.ug24.ee@nitp.ac.in"
+    },
+    {
+        "team": "Blockchain",
+        "branch": "CSE",
+        "rollNo": 2406165,
+        "name": "Sairaj Raithatha",
+        "email": "raithatham.ug24.cs@nitp.ac.in"
+    },
+    {
+        "team": "Blockchain",
+        "branch": "EE",
+        "rollNo": 2402028,
+        "name": "Aman Chaudhary",
+        "email": "amanc.ug24.ee@nitp.ac.in"
+    },
+    {
+        "team": "Blockchain",
+        "branch": "MAE",
+        "rollNo": 2411021,
+        "name": "Mohit Kumar",
+        "email": "mohitk.ug24.mae@nitp.ac.in"
+    },
+    {
+        "team": "Android",
+        "branch": "CSE",
+        "rollNo": 2406025,
+        "name": "Yaksh Bariya",
+        "email": "yakshb.ug24.cs@nitp.ac.in"
+    },
+    {
+        "team": "Android",
+        "branch": "CSE",
+        "rollNo": 2406009,
+        "name": "Nilesh Raj",
+        "email": "nileshr.ug24.cs@nitp.ac.in"
+    },
+    {
+        "team": "Android",
+        "branch": "CSE",
+        "rollNo": 2406112,
+        "name": "Supriya Kumari",
+        "email": "supriyak.ug24.cs@nitp.ac.in"
+    },
+    {
+        "team": "Android",
+        "branch": "ECE",
+        "rollNo": 2404035,
+        "name": "Ekansh Satsangi",
+        "email": "ekanshs.ug24.ec@nitp.ac.in"
+    },
+    {
+        "team": "Design",
+        "branch": "EE",
+        "rollNo": 2402024,
+        "name": "Sonu Kumar",
+        "email": "sonuk.ug24.ee@nitp.ac.in"
+    },
+    {
+        "team": "Design",
+        "branch": "EE",
+        "rollNo": 2402048,
+        "name": "Priyanshi",
+        "email": "priyanshi.ug24.ee@nitp.ac.in"
+    },
+    {
+        "team": "Design",
+        "branch": "EE",
+        "rollNo": 2402020,
+        "name": "Yash Ranjan",
+        "email": "yashr.ug24.ee@nitp.ac.in"
+    },
+    {
+        "team": "Design",
+        "branch": "EE",
+        "rollNo": 2402115,
+        "name": "Abhinav Anand",
+        "email": "abhinava.ug24.ee@nitp.ac.in"
+    },
+    {
+        "team": "PR",
+        "branch": "EE",
+        "rollNo": 2402019,
+        "name": "Avdhesh Pratap Singh Rajpoot ",
+        "email": "avdheshr.ug24.ee@nitp.ac.in"
+    },
+    {
+        "team": "PR",
+        "branch": "EE",
+        "rollNo": 2402056,
+        "name": "Ehtesham Alam",
+        "email": "ehteshama.ug24.ee@nitp.ac.in"
+    },
+    {
+        "team": "PR",
+        "branch": "ECE",
+        "rollNo": 2448020,
+        "name": "Anjali Saini",
+        "email": "anjalis.dd24.ec@nitp.ac.in"
+    },
+    {
+        "team": "PR",
+        "branch": "EE",
+        "rollNo": 2402027,
+        "name": "Nikhil Kumar",
+        "email": "nikhilkk.ug24.ee@nitp.ac.in"
+    },
+    {
+        "team": "PR",
+        "branch": "ECE",
+        "rollNo": 2404018,
+        "name": "Ayushi Prajapati",
+        "email": "ayuship.ug24.ec@nitp.ac.in"
+    },
+    {
+        "team": "PR",
+        "branch": "EE",
+        "rollNo": 2402044,
+        "name": "Sumit Khoji",
+        "email": "sumitk.ug24.ee@nitp.ac.in"
+    },
+    {
+        "team": "Content",
+        "branch": "EE",
+        "rollNo": 2402080,
+        "name": "Parth Pulak Shrivastava",
+        "email": "parths.ug24.ee@nitp.ac.in"
+    },
+    {
+        "team": "Content",
+        "branch": "CSE",
+        "rollNo": 2406164,
+        "name": "Ishant Singh",
+        "email": "ishants.ug24.cs@nitp.ac.in"
+    },
+    {
+        "team": "Content",
+        "branch": "ECE",
+        "rollNo": 2448016,
+        "name": "Prince Bharti",
+        "email": "PRINCEB.DD24.EC@NITP.AC.IN"
+    },
+    {
+        "team": "Project",
+        "branch": "CE",
+        "rollNo": 2403064,
+        "name": "Aarav Singh",
+        "email": "aaravs.ug24.ce@nitp.ac.in"
+    },
+    {
+        "team": "Project",
+        "branch": "EE",
+        "rollNo": 2402096,
+        "name": "Prateek Srivastav",
+        "email": "prateeks.ug24.ee@nitp.ac.in"
+    },
+    {
+        "team": "Project",
+        "branch": "ECE",
+        "rollNo": 2448028,
+        "name": "Anushri",
+        "email": "anushri.dd24.ec@nitp.ac.in"
+    },
+    {
+        "team": "Project",
+        "branch": "MAE",
+        "rollNo": 2411018,
+        "name": "Rudraksha Kumar",
+        "email": "rudrakshak.ug24.mae@nitp.ac.in"
+    },
+    {
+        "team": "Project",
+        "branch": "EE",
+        "rollNo": 2402074,
+        "name": "Rupam Kumari",
+        "email": "rupamk.ug24.ee@nitp.ac.in"
+    },
+    {
+        "team": "Project",
+        "branch": "EE",
+        "rollNo": 2449008,
+        "name": "Rimmi Agrawal",
+        "email": "rimmia.dd24.ee@nitp.ac.in"
+    },
+    {
+        "team": "Project",
+        "branch": "EE",
+        "rollNo": 2449002,
+        "name": "Lakshya Chaudhary ",
+        "email": "lakshyac.dd24.ee@nitp.ac.in"
+    },
+    {
+        "team": "Project",
+        "branch": "ECE",
+        "rollNo": 2404048,
+        "name": "Rathod Praveen Kumar ",
+        "email": "rathodk.ug24.ec@nitp.ac.in"
+    },
+    {
+        "team": "Core",
+        "branch": "EE",
+        "rollNo": 2402053,
+        "name": "Ritik Kumar",
+        "email": "ritikk.ug24.ee@nitp.ac.in"
+    },
+    {
+        "team": "Core",
+        "branch": "EE",
+        "rollNo": 2402047,
+        "name": "Avanthika R Nair",
+        "email": "avanthikan.ug24.ee@nitp.ac.in"
+    },
+    {
+        "team": "Core",
+        "branch": "EE",
+        "rollNo": 2449001,
+        "name": "Atharva Suryavanshi",
+        "email": "atharvs.dd24.ee@nitp.ac.in"
+    },
+    {
+        "team": "Core",
+        "branch": "EE",
+        "rollNo": 2402089,
+        "name": "Sania D Biju",
+        "email": "saniab.ug24.ee@nitp.ac.in"
+    },
+    {
+        "team": "Core",
+        "branch": "EE",
+        "rollNo": 2402105,
+        "name": "Aditya jha",
+        "email": "adityaj.ug24.ee@nitp.ac.in"
+    },
+    {
+        "team": "Core",
+        "branch": "EE",
+        "rollNo": 2402058,
+        "name": "Saurav Kumar",
+        "email": "sauravk.ug24.ee@nitp.ac.in "
+    },
+    {
+        "team": "Core",
+        "branch": "EE",
+        "rollNo": 2402042,
+        "name": "Ayush Aryan",
+        "email": "ayusha.ug24.ee@nitp.ac.in"
+    },
+    {
+        "team": "Core",
+        "branch": "EE",
+        "rollNo": 2449016,
+        "name": "Ashutosh Ranjan",
+        "email": "ashutoshr.dd24.ee@nitp.ac.in"
+    },
+    {
+        "team": "Web",
+        "branch": "CSE",
+        "rollNo": 2406201,
+        "name": "Anurag Mishra",
+        "email": "anuragm.ug24.cs@nitp.ac.in"
+    },
+    {
+        "team": "Web",
+        "branch": "EE",
+        "rollNo": 2402043,
+        "name": "Shalini Singh",
+        "email": "shalinis.ug24.ee@nitp.ac.in"
+    },
+    {
+        "team": "Web",
+        "branch": "EE",
+        "rollNo": 2402021,
+        "name": "Harish Bhadauria",
+        "email": "harishb.ug24.ee@nitp.ac.in"
+    },
+    {
+        "team": "Web",
+        "branch": "EE",
+        "rollNo": 2402026,
+        "name": "Adarsh Soni",
+        "email": "adarshs.ug24.ee@nitp.ac.in"
+    },
+    {
+        "team": "Web",
+        "branch": "CT",
+        "rollNo": 2456010,
+        "name": "Lakshya Kumrawat",
+        "email": "lakshyak.dd24.ch@nitp.ac.in"
+    },
+    {
+        "team": "Web",
+        "branch": "EE",
+        "rollNo": 2402036,
+        "name": "Tanvi Singh",
+        "email": "tanvis.ug24.ee@nitp.ac.in"
+    },
+    {
+        "team": "Web",
+        "branch": "ECE",
+        "rollNo": 2304016,
+        "name": "Rakshit",
+        "email": "rakshits.ug23.ec@nitp.ac.in"
+    },
+    {
+        "team": "Web",
+        "branch": "EE",
+        "rollNo": 2402054,
+        "name": "Vipin",
+        "email": "vipin.ug24.ee@nitp.ac.in "
+    },
+    {
+        "team": "Web",
+        "branch": "EE",
+        "rollNo": 2449014,
+        "name": "Shashwat Modak",
+        "email": "shashwatm.dd24.ee@nitp.ac.in"
+    },
+    {
+        "team": "Web",
+        "branch": "EE",
+        "rollNo": 2402005,
+        "name": "Ayush Raj",
+        "email": "ayushr.ug24.ee@nitp.ac.in"
+    },
+    {
+        "team": "Web",
+        "branch": "CSE",
+        "rollNo": 2406126,
+        "name": "Diksha Bharti",
+        "email": "dikshab.ug24.cs@nitp.ac.in"
+    }
+]
